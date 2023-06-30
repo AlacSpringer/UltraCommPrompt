@@ -1,0 +1,11 @@
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\bin\Debug\UltraCommPrompt.exe.config
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\bin\Debug\UltraCommPrompt.exe
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\bin\Debug\UltraCommPrompt.pdb
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.csproj.AssemblyReference.cache
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.Properties.Resources.resources
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.csproj.GenerateResource.cache
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.exe
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.pdb
+C:\Users\Lauren\source\repos\UltraCommPrompt\UltraCommPrompt\obj\Debug\UltraCommPrompt.CalenderGUI.resources
